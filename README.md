@@ -7,7 +7,7 @@ I'm a Full Stack Developer based in Limoges with a background in Graphic design.
 
 | Deployed App | Repo | Technologies Used |
 |:-------------:|:-------------:|:----------|
-| <a href=""><img src="https://github.com/WillN-Git/Paint-Clone/blob/main/MDImages/screenshot.png" width="100%" /> Paint Clone</a> | <a href="https://github.com/WillN-Git/Paint-Clone"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" /></a> | Java, <a href="https://slick.ninjacave.com/javadoc/">Slick2D</a> |
+| <a href=""><img src="https://github.com/WillN-Git/Paint-Clone/blob/main/MDImages/screenshot.png" width="100%" /> Paint Clone</a> | <a href="https://github.com/WillN-Git/Paint-Clone"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | Java, <a href="https://slick.ninjacave.com/javadoc/">Slick2D</a> |
 
 <!--
 **WillN-Git/WillN-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
