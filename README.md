@@ -7,7 +7,6 @@ My interests are mainly in virtual environment.<br/>
 
 ## Featured Projects
 
-https://github.com/WillN-Git/SKYLINEPUNCH/blob/main/MDImages/SkyLinepunch-shorts.gif
 
 | Deployed App | Repo | Technologies Used |
 |:-------------:|:-------------:|:----------|
