@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Will 👨‍💻
 
-I'm a maths lover and Full Stack Developer based in Limoges.<br/>
+I'm a maths lover and XR Developer based in Angoulême.<br/>
 My interests are mainly in virtual environment.<br/>
 
-🤔 I'm currently looking for a work-study contract to continue my studies in the national school of video games: <a href="https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp">ENJMIN</a>.
+I study at the national school of video games (<a href="https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp">ENJMIN</a>), and I've just signed for a work-study contract with the CNAM where my mission is to develop digital twins 😄.
 
 ## Featured Projects
 
@@ -15,8 +15,6 @@ My interests are mainly in virtual environment.<br/>
 | <a style="display: inline-block" href="#"><img src="https://github.com/WillN-Git/Shopati/blob/main/MDImages/shopati-frontend-shorts.gif" width="300" /></a> <a style="display: inline-block;" href="#"><img src="https://github.com/WillN-Git/Shopati/blob/main/MDImages/shopati-backend-shorts.gif" width="300" /></a><br /><a href="#">Shopati EShop</a> | <a href="https://github.com/WillN-Git/Shopati"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> |Typescript, <a href="https://www.mongodb.com/">MongoDB</a>, <a href="https://expressjs.com/">Express</a>, <a href="https://angular.io/">Angular</a>, <a href="https://nodejs.org/en/">NodeJS</a> <br/> |
 | <a href="https://b0p6g4.csb.app/"><img src="https://github.com/WillN-Git/SpaceX-Dashboard/raw/main/MDImages/spaceX-dashboard-shorts.gif" width="100%" /></a><br /><a href="https://b0p6g4.csb.app/">SpaceX Dashboard</a> | <a href="https://github.com/WillN-Git/SpaceX-Dashboard"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="https://reactjs.org/">React JS</a>, <a href="https://react-chartjs-2.js.org/">Chart JS</a>, <a href="https://react-leaflet.js.org/">react-leaflet</a> <br/><br/> Data Source: <a href="https://github.com/r-spacex/SpaceX-API">SpaceX API </a> |
 | <a href="https://github.com/WillN-Git/Paint-Clone"><img src="https://github.com/WillN-Git/Paint-Clone/blob/main/MDImages/paint-clone-shorts.gif" width="600px" /></a><br/><a href="https://github.com/WillN-Git/Paint-Clone">Paint Clone</a> | <a href="https://github.com/WillN-Git/Paint-Clone"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | Java, <a href="https://slick.ninjacave.com/javadoc/">Slick2D</a> (lwjgl) |
-
- 🔭 I’m currently working on my web potfolio.
 
 <!--
 **WillN-Git/WillN-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
