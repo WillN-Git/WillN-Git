@@ -3,7 +3,7 @@
 I'm a maths lover and XR Developer based in Angoulême.<br/>
 My interests are mainly in virtual environment.<br/>
 
-I study at the national school of video games (<a href="https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp">ENJMIN</a>), and I've just signed for a work-study contract with the CNAM where my mission is to develop digital twins 😄.
+I study at the national school of video games (<a href="https://enjmin.cnam.fr/enjmin/ecole-nationale-du-jeu-et-des-medias-interactifs-accueil-1126103.kjsp">ENJMIN</a>), and I've just signed for a work-study contract with the CNAM where my mission is to develop virtual twins 😄.
 
 ## Featured Projects
 
